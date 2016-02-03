@@ -1,0 +1,4 @@
+C:\Users\LERY\Documents\Visual Studio 2015\Projects\alpha forms\AlphaForms\bin\Debug\AlphaForms.dll
+C:\Users\LERY\Documents\Visual Studio 2015\Projects\alpha forms\AlphaForms\bin\Debug\AlphaForms.pdb
+C:\Users\LERY\Documents\Visual Studio 2015\Projects\alpha forms\AlphaForms\obj\Debug\AlphaForms.dll
+C:\Users\LERY\Documents\Visual Studio 2015\Projects\alpha forms\AlphaForms\obj\Debug\AlphaForms.pdb
